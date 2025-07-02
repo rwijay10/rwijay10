@@ -14,9 +14,10 @@ I’m a cybersecurity enthusiast who recently completed a Master’s focused on 
 
 🛠️ Technical Skills
 
-Languages: Python, R, Java, Assembly (QtSpim/MIPS)
-Tools & Platforms: Burp Suite, Wireshark, Microsoft SQL Server, Linux, Windows
-Key Areas: Penetration Testing, Incident Response, Ethical Hacking, Debugging, Networking, Digital Forensics
+    Languages: Python, R, Java, Assembly (QtSpim/MIPS)
+    Tools & Platforms: Burp Suite, Wireshark, Microsoft SQL Server, Linux, Windows
+    Key Areas: Penetration Testing, Incident Response, Ethical Hacking, Debugging, Networking, Digital Forensics
+
 📂 Featured Projects
 🔐 Cryptography & Ethical Hacking
 
