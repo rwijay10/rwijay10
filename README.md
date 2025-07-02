@@ -1,4 +1,4 @@
-[Rajini Wijayanayake](https://github.com/user-attachments/assets/487fca1f-cbf3-422d-a3ab-bd0b504ec944)
+![Rajini Wijayanayake](https://github.com/user-attachments/assets/f2745839-c8dd-4cf2-9ec3-a65c6a00ec24)
 
 👋 Hi, I'm Rajini Wijayanayake
 
@@ -61,8 +61,8 @@ I’m a cybersecurity enthusiast who recently completed a Master’s focused on 
 
 📌 Currently...
 
-    🌱 Exploring AI in cybersecurity
+    🌱 Familiarising self with modern cybersecurity techniques
 
-    📘 Writing about biometrics and identity management
+    📘 Participating in CTFs
 
-    💼 Open to full-time roles or research opportunities in cybersecurity
+    💼 Open to full-time roles, internships, or research opportunities in cybersecurity
