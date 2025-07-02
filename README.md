@@ -50,9 +50,9 @@ Key Areas: Penetration Testing, Incident Response, Ethical Hacking, Debugging, N
 
 📫 Let's Connect
 
-📧 Email: rajiniwijay@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/rajini-w-b64966122
+    Email: rajiniwijay@gmail.com
+    
+    LinkedIn: linkedin.com/in/rajini-w-b64966122
 
 📌 Currently...
 
