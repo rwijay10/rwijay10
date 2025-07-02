@@ -3,11 +3,15 @@
 👋 Hi, I'm Rajini Wijayanayake
 
 🎓 MSc in Cyber Security from St. George’s, University of London
+
 💻 BSc in Computer Science from Saint Francis Xavier University
+
 🔐 Passionate about network security, cryptography, ethical hacking, and digital forensics
+
 🧠 About Me
 
-I’m a cybersecurity enthusiast who recently completed a Master’s focused on biometric key generation with iris recognition. My experience spans from academic research to practical security audits and competitive cybersecurity simulations. I’m always eager to explore real-world vulnerabilities and propose actionable, scalable solutions.
+    I’m a cybersecurity enthusiast who recently completed a Master’s focused on biometric key generation with iris recognition. My experience spans from academic research to practical security audits and competitive cybersecurity simulations. I’m always eager to explore real-world vulnerabilities and propose actionable, scalable solutions.
+
 🛠️ Technical Skills
 
 Languages: Python, R, Java, Assembly (QtSpim/MIPS)
