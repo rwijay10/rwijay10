@@ -1,4 +1,4 @@
-![Rajini Wijayanayake](https://github.com/user-attachments/assets/f2745839-c8dd-4cf2-9ec3-a65c6a00ec24)
+![Rajini Wijayanayake Banner](https://github.com/user-attachments/assets/35bceb45-456c-4432-83a1-a0e62565d82b)
 
 👋 Hi, I'm Rajini Wijayanayake
 
